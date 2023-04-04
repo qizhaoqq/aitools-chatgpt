@@ -50,9 +50,9 @@ export default defineConfig({
       includeAssets: ["favicon.svg"],
       registerType: "autoUpdate",
       manifest: {
-        name: "艾兔思Aitools-chatgpt",
+        name: "KUPA-chatgpt",
         lang: "zh-cn",
-        short_name: "艾兔思Aitools-chatgpt",
+        short_name: "KUPA-chatgpt",
         background_color: "#f6f8fa",
         icons: [
           {
